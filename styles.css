@@ -1,0 +1,189 @@
+body {
+    background-image: url(' https://lh3.googleusercontent.com/proxy/mJ0CFCKAVxKmD4H78Aik0HzRkjqI5YV4Y2hWA3s8lWKE3-nr3x4NaG2fhd-nVHIjZbw6azD4TyeWNE6f4Qp3WUiogKrF7FkhNyFRPAsDnV3gStSCQ8UgYLLzKN7GPmyUlIP4myTFt4VFBcDXy7U');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+p {
+    color: #40111b;
+}
+
+h1 {
+    text-align: center;
+    color: #f5e9c4;
+
+}
+
+.background {
+    text-align: center;
+    background-color: #b34e1e;
+    display: flex;
+    justify-content: center;
+    height: 65px;
+
+}
+
+href {
+    color: #3285a8;
+}
+
+
+
+.back {
+
+    text-align: center;
+    background-color: #b37770;
+    max-width: 445px;
+    min-width: 445px;
+    position: center;
+    position: relative;
+    left: 480px;
+    top: 2px;
+    right: 100px;
+
+
+
+
+}
+
+.brown {
+    color: #f5e9c4;
+    text-align: center;
+}
+
+h2 {
+    text-align: center;
+    color: #f5e9c4;
+}
+
+h3 {
+    text-align: center;
+    color: #f5e9c4;
+}
+
+h4 {
+    text-align: center;
+}
+
+.square {
+    width: 100px;
+    height: 100px;
+    border: 0.5px solid black;
+    float: left;
+
+    text-align: center;
+}
+
+.squareblocks {
+    display: flex;
+    justify-content: center;
+
+
+}
+
+.square {
+    text-align: center;
+}
+
+.square {
+    width: 100px;
+    height: 100px;
+    border: solid;
+}
+
+.one {
+    background-color: #40111b;
+}
+
+
+.two {
+    text-align: center;
+}
+
+.two {
+    width: 100px;
+    height: 100px;
+    border: solid;
+}
+
+.two {
+    background-color: #9dc7ba;
+}
+
+
+.three {
+    text-align: center;
+}
+
+.three {
+    width: 100px;
+    height: 100px;
+    border: solid;
+}
+
+.three {
+    background-color: #82656c;
+}
+
+.four {
+    text-align: center;
+}
+
+.four {
+    width: 100px;
+    height: 100px;
+    border: solid;
+}
+
+.four {
+    background-color: #6d83bf;
+}
+
+.five {
+    text-align: center;
+}
+
+.five {
+    width: 100px;
+    height: 100px;
+    border: solid;
+}
+
+.five {
+    background-color: #283142;
+}
+
+h1 {
+    font-family: 'Philosopher', sans-serif;
+}
+
+h2 {
+    font-family: 'Philosopher', sans-serif;
+}
+
+h3 {
+    font-family: 'Philosopher', sans-serif;
+}
+
+.border {
+    text-align: center;
+}
+
+.arvo {
+    font-family: 'Arvo', serif;
+}
+
+.sura {
+    font-family: 'Sura', serif;
+     color: #40111b;
+}
+
+img {
+    width: 30px;
+    width: 30%;
+    font-size: 20px;
+    border: 5px solid #592924;
+}
+ul { text-align: center;
+     }
